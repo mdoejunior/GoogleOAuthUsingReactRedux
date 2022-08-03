@@ -1,6 +1,6 @@
-# Playing With ReduxThunk in React App
+# Google Authentication in React Redux App
 
-A Web application built using React, Redux and JSONPlaceholder API,  for the Purpose of helping learners to understand how redux work with react seeemlessly..
+A Web application built using React, Redux and Google Authentication API,  for the Purpose of helping learners to understand how to handle Authentication in React App.
 ## Features
 
 - Responsive design
@@ -9,8 +9,8 @@ A Web application built using React, Redux and JSONPlaceholder API,  for the Pur
 
 ## Get Started
 
-1. `git clone https://github.com/mdoejunior/workingWithReduxThunk.git`
-2. `cd songs-redux-app`
+1. `git clone https://github.com/mdoejunior/GoogleOAuthUsingReactRedux.git`
+2. `cd GoogleOAuthWithReactRedux`
 3. `npm install`
 4. `npm run start` (start development server)
 5. Enjoy at http://localhost:3000# workingWithReduxThunk
